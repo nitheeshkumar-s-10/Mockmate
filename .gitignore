@@ -1,0 +1,13 @@
+.env
+.venv/
+.vscode/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+*.sqlite
+*.sqlite3
+*.db
+workspace/sessions/*
+!workspace/sessions/.gitkeep
+workspace/weak-topics.md
