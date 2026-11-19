@@ -174,3 +174,9 @@ LinkedIn: https://www.linkedin.com/in/nitheesh-kumar-s/
 ---
 
 **MockMate - Practice. Evaluate. Improve.**
+
+## Screenshots
+
+### MockMate Application
+
+![MockMate Start Screen](Screenshots/mockmate-start.png)
