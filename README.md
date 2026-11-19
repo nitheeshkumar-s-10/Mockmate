@@ -169,14 +169,28 @@ The tests cover:
 ## Author
 **Nitheesh Kumar S**
 GitHub: https://github.com/nitheeshkumar-s-10
+
 LinkedIn: https://www.linkedin.com/in/nitheesh-kumar-s/
 
 ---
 
 **MockMate - Practice. Evaluate. Improve.**
 
+
 ## Screenshots
 
-### MockMate Application
+### 1. MockMate Application
 
 ![MockMate Start Screen](Screenshots/mockmate-start.png)
+
+### 2. Interview Question Generation
+
+![Interview Question](Screenshots/Interview%20Question.png)
+
+### 3. Answer Evolution
+
+![Answer Evolution](Screenshots/Answer%20Evolution.png)
+
+### 4. Interview Completion
+
+![Interview Completion](Screenshots/Interview%20Completion.png)
